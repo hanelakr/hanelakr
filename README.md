@@ -1,4 +1,4 @@
-# Hi, I'm Hanela 👋
+# Hello There, I'm Hanela 👋
 
 🎓 Systems Analysis and Development Graduate  
 💻 Java | MySQL | PHP | HTML | CSS  
