@@ -37,7 +37,7 @@ I am continuously improving my skills in JavaScript and modern web development.
 
 ## 📂 Featured Projects
 
-- 🍽 Restaurant System  
+- 🍽 Restaurant Management System   
 - ♿ Braille Display Automation (Published Undergraduate Thesis Project)
 
 ---
@@ -51,7 +51,7 @@ I am continuously improving my skills in JavaScript and modern web development.
 
 <br>
 
-# Olá, eu sou a Hanela 👋
+# Olá, eu sou a Hanela! 👋
 
 🎓 Desenvolvedora formada em Análise e Desenvolvimento de Sistemas  
 💻 Java | MySQL | PHP | HTML | CSS  
